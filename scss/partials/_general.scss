@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+}
+.hide {
+	overflow: hidden;
+}
+.hide_resp {
+	display: none;
+	div {
+		display: none;
+	}
+	span {
+		display: none;
+	}
+}
